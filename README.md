@@ -3,7 +3,7 @@
 <!--
 **Vitor-Carmo/Vitor-Carmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- ### 🙂😊 Who am i?
+ ### 🙂 Who am i?
  Hi there! 👋 My name's Vitor, I'm 18 years old and nowadays I'm studying to be a **System development technician** on **ETEC de Guaianazes**
  
  ### 🖥 What am i working on?
