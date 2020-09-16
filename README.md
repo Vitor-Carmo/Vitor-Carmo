@@ -9,9 +9,7 @@
  ### 🖥 What am i working on?
  I'm working on my personal projects to improve my knowledge and trying to learn new technologies.
 
- <br/>
-
- #### and currently i'm working on [Etec Help](https://github.com/Sirius-tcc) aplication to complete my System development technician course.
+ and currently i'm working on [Etec Help](https://github.com/Sirius-tcc) aplication to complete my System development technician course.
  
  
  ### 🚀 Technologies
