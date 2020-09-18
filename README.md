@@ -1,9 +1,6 @@
 <p align="center">
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=Vitor-Carmo&show_icons=true" />
 </p>
- 
-# Vitor Carmo
-
 
 <!--
 **Vitor-Carmo/Vitor-Carmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
