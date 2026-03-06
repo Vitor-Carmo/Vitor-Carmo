@@ -48,3 +48,7 @@ I'm a **Full Stack Developer** focused on building scalable web applications, AP
 
 ### Follow me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Carmo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-santos-57a9a81b0/)
+
+<p align="center">
+  <img src="/github-metrics.svg">
+</p>
