@@ -1,0 +1,27 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "0 0 3 1 *"
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate age
+        run: |
+          birth_year=2002
+          current_year=$(date +%Y)
+          age=$((current_year - birth_year))
+          sed -i "s/<!--AGE-->.*<!--AGE-->/<!--AGE-->$age<!--AGE-->/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git commit -am "Update age"
+          git push
