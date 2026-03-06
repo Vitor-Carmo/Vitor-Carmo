@@ -41,3 +41,7 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 9999
           plugin_stargazers_worldmap: yes
+          steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
